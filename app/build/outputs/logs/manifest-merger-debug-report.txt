@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\161811c78963b7c7b9de329620e6ab7c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\6b411f233f88daafa56437ccb47f1360\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4f2c6ccf4aab907bd76f20b77be5c0ff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\45cdc61d78b0f7c8d821b330da711c28\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fcf8c98e699e5c13db5743510b37a918\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\3dd9a36fb5391db69487906e5f6f8f60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ca1165667f159fda78e8cf7005b794ee\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\9c7c6121a467cb6fea81e905e4efb50d\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\293d2afa00dc51e411e97965cbbbd09f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f13d2f412f4b837329b165f1d4e1a74d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c2169e32a8c88d68fabf02f753190a65\AndroidManifest.xml:17:1-25:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\34fd409b812b808cd18bdab231af9544\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\84facd679ebadbab4e07b462fcc16ba0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\414dfcf6023e815090f8dca385b83b6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4b141b2e01f2d153ce908a3bcaefdd03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\43f5a826a800867c6eb0bf1e260850ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\18b580a9db97e57e32e75992070fe585\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f94e34392853374cfaf39e20c87126dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\bdb77df2251dfcb5edeb1d4fd7c6ab0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\1f5c6ee7ca3775d12f8c43aebb81f294\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-rc04] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\68e7ada7f37767ed2b27482a63d93127\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc04] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c13fc2c2ea8fd5eb40404af9376bfc73\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fb229beff528e96a7ce4fea46ffff268\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\07948192ff9a5591d12b260267331fab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2cc51b6672c9d16c8c85b8665ac56a3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ea4713291ee6e689a680fccadb7a45a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\3f5e094e17c9be70de10650fefbaa186\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\67dc691bba8c907676ecb21c10cbab7c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\b80e453420782007faee8bea4e8f2968\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\8ed32dc35a7d018fa960a96c6d7140c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4f50a5ae6ccefe156ec404a1c60cfc16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f5dd15abc6dbfeedc674d9953bcdf02e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e9e76f3d08230f762591d3466f2aad15\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\d670ad2c43100828d6f432c361202027\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\0e115012b7f9070a2f4ed98f03e41548\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\1b51084852e666ca4e6483eb400e5fb2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\5647ff9e7d7101679b7d46147064ac06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\cbc9a7935602e57c902181823070b59f\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2ec8c36c4b4b5b213a2f10feca103389\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ace928a2ff84504b265dedffa1a04e1e\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e5ee90cd08d50a8e49914bc64fdc49a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\512aa2df993bb55ed9af864e4daf6a2a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\edc286a694b7c105536798a4122e834a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\62c1fa468cb8ff4ab98cc144bd4f9546\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e42dc0427c39eb4a8aed485516b66f75\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e34d4cac0b49c3cc58c8d5420609d387\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f4b2595aa7f0dbd0a27d538af57aa40c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2b9b5b1d0471d7bdaabb1f8d610303a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f0c317693567ef3af8d138b2f0c1323f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\a2502eac542fac100fd556bc34fd84cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\6e9eed7256a6f2f94cea88a3625455a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\0a16d5929fb567fbc2e5c5e7b8ce6c10\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fcf8c98e699e5c13db5743510b37a918\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fcf8c98e699e5c13db5743510b37a918\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\9c7c6121a467cb6fea81e905e4efb50d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\9c7c6121a467cb6fea81e905e4efb50d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c2169e32a8c88d68fabf02f753190a65\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c2169e32a8c88d68fabf02f753190a65\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\cbc9a7935602e57c902181823070b59f\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\cbc9a7935602e57c902181823070b59f\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ace928a2ff84504b265dedffa1a04e1e\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ace928a2ff84504b265dedffa1a04e1e\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\cbc9a7935602e57c902181823070b59f\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:8:13-45
+	android:icon
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:11:13-44
+activity#assignment.com.quizdemo.activity.HomeActivity
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:12:19-79
+activity#assignment.com.quizdemo.activity.SplashActivity
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:14:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\161811c78963b7c7b9de329620e6ab7c\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\161811c78963b7c7b9de329620e6ab7c\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\6b411f233f88daafa56437ccb47f1360\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\6b411f233f88daafa56437ccb47f1360\AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4f2c6ccf4aab907bd76f20b77be5c0ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4f2c6ccf4aab907bd76f20b77be5c0ff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\45cdc61d78b0f7c8d821b330da711c28\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\45cdc61d78b0f7c8d821b330da711c28\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fcf8c98e699e5c13db5743510b37a918\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fcf8c98e699e5c13db5743510b37a918\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\3dd9a36fb5391db69487906e5f6f8f60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\3dd9a36fb5391db69487906e5f6f8f60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ca1165667f159fda78e8cf7005b794ee\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ca1165667f159fda78e8cf7005b794ee\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\9c7c6121a467cb6fea81e905e4efb50d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\9c7c6121a467cb6fea81e905e4efb50d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\293d2afa00dc51e411e97965cbbbd09f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\293d2afa00dc51e411e97965cbbbd09f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f13d2f412f4b837329b165f1d4e1a74d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f13d2f412f4b837329b165f1d4e1a74d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c2169e32a8c88d68fabf02f753190a65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c2169e32a8c88d68fabf02f753190a65\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\34fd409b812b808cd18bdab231af9544\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\34fd409b812b808cd18bdab231af9544\AndroidManifest.xml:18:5-43
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\84facd679ebadbab4e07b462fcc16ba0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\84facd679ebadbab4e07b462fcc16ba0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\414dfcf6023e815090f8dca385b83b6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\414dfcf6023e815090f8dca385b83b6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4b141b2e01f2d153ce908a3bcaefdd03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4b141b2e01f2d153ce908a3bcaefdd03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\43f5a826a800867c6eb0bf1e260850ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\43f5a826a800867c6eb0bf1e260850ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\18b580a9db97e57e32e75992070fe585\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\18b580a9db97e57e32e75992070fe585\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f94e34392853374cfaf39e20c87126dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f94e34392853374cfaf39e20c87126dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\bdb77df2251dfcb5edeb1d4fd7c6ab0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\bdb77df2251dfcb5edeb1d4fd7c6ab0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\1f5c6ee7ca3775d12f8c43aebb81f294\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\1f5c6ee7ca3775d12f8c43aebb81f294\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-rc04] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\68e7ada7f37767ed2b27482a63d93127\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0-rc04] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\68e7ada7f37767ed2b27482a63d93127\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc04] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c13fc2c2ea8fd5eb40404af9376bfc73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc04] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\c13fc2c2ea8fd5eb40404af9376bfc73\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fb229beff528e96a7ce4fea46ffff268\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\fb229beff528e96a7ce4fea46ffff268\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\07948192ff9a5591d12b260267331fab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\07948192ff9a5591d12b260267331fab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2cc51b6672c9d16c8c85b8665ac56a3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2cc51b6672c9d16c8c85b8665ac56a3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ea4713291ee6e689a680fccadb7a45a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ea4713291ee6e689a680fccadb7a45a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\3f5e094e17c9be70de10650fefbaa186\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\3f5e094e17c9be70de10650fefbaa186\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\67dc691bba8c907676ecb21c10cbab7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\67dc691bba8c907676ecb21c10cbab7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\b80e453420782007faee8bea4e8f2968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\b80e453420782007faee8bea4e8f2968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\8ed32dc35a7d018fa960a96c6d7140c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\8ed32dc35a7d018fa960a96c6d7140c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4f50a5ae6ccefe156ec404a1c60cfc16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\4f50a5ae6ccefe156ec404a1c60cfc16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f5dd15abc6dbfeedc674d9953bcdf02e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f5dd15abc6dbfeedc674d9953bcdf02e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e9e76f3d08230f762591d3466f2aad15\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e9e76f3d08230f762591d3466f2aad15\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\d670ad2c43100828d6f432c361202027\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\d670ad2c43100828d6f432c361202027\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\0e115012b7f9070a2f4ed98f03e41548\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\0e115012b7f9070a2f4ed98f03e41548\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\1b51084852e666ca4e6483eb400e5fb2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\1b51084852e666ca4e6483eb400e5fb2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\5647ff9e7d7101679b7d46147064ac06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\5647ff9e7d7101679b7d46147064ac06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\cbc9a7935602e57c902181823070b59f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\cbc9a7935602e57c902181823070b59f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2ec8c36c4b4b5b213a2f10feca103389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2ec8c36c4b4b5b213a2f10feca103389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ace928a2ff84504b265dedffa1a04e1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\ace928a2ff84504b265dedffa1a04e1e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e5ee90cd08d50a8e49914bc64fdc49a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e5ee90cd08d50a8e49914bc64fdc49a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\512aa2df993bb55ed9af864e4daf6a2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\512aa2df993bb55ed9af864e4daf6a2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\edc286a694b7c105536798a4122e834a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\edc286a694b7c105536798a4122e834a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\62c1fa468cb8ff4ab98cc144bd4f9546\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\62c1fa468cb8ff4ab98cc144bd4f9546\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e42dc0427c39eb4a8aed485516b66f75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e42dc0427c39eb4a8aed485516b66f75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e34d4cac0b49c3cc58c8d5420609d387\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\e34d4cac0b49c3cc58c8d5420609d387\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f4b2595aa7f0dbd0a27d538af57aa40c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f4b2595aa7f0dbd0a27d538af57aa40c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2b9b5b1d0471d7bdaabb1f8d610303a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\2b9b5b1d0471d7bdaabb1f8d610303a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f0c317693567ef3af8d138b2f0c1323f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\f0c317693567ef3af8d138b2f0c1323f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\a2502eac542fac100fd556bc34fd84cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\a2502eac542fac100fd556bc34fd84cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\6e9eed7256a6f2f94cea88a3625455a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\6e9eed7256a6f2f94cea88a3625455a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\0a16d5929fb567fbc2e5c5e7b8ce6c10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\0a16d5929fb567fbc2e5c5e7b8ce6c10\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kanif\Android Projects\QuizDemo\QuizDemo\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Kanif\.gradle\caches\transforms-2\files-2.1\de3f245bf0cff720101b555711eb6b9e\AndroidManifest.xml:24:13-79
